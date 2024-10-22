@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_act_1/home_page%20copy.dart';
-import 'package:flutter_act_1/home_page.dart';
+import 'package:ylanan_insta_1/insta_page.dart';
 
 void main() {
- runApp(HomePage2());
+  runApp(instapage());
 }
-
